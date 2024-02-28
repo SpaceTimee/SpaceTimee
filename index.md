@@ -25,11 +25,13 @@
 
 * 制作 **Sheas Unlocker  (开源URL: [https://github.com/SpaceTimee/Sheas-Unlocker](https://github.com/SpaceTimee/Sheas-Unlocker)) (Winform)**
 
+* 制作 **Frok NextChat (开源URL: [https://github.com/SpaceTimee/Frok-NextChat](https://github.com/SpaceTimee/Frok-NextChat)) (Next)**
+
+* 制作 **Frok ClashN (开源URL: [https://github.com/SpaceTimee/Frok-ClashN](https://github.com/SpaceTimee/Frok-ClashN)) (WPF)**
+
 * 维护 **无限宝第三方插件安装器 (开源URL: [https://github.com/SpaceTimee/Vizpower-Plugin-Installer](https://github.com/SpaceTimee/Vizpower-Plugin-Installer)) (WPF)**
 
 ## To-Do List 📒
-* 制作 Frok 系列
-
 * 制作 Suri 系列
 
 * 继续学习 Unity
