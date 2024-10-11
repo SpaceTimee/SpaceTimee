@@ -27,9 +27,11 @@
 
 * 制作 **Ona Dop (开源URL: [https://github.com/SpaceTimee/Ona-Dop](https://github.com/SpaceTimee/Ona-Dop)) (Vue)**
 
+* 制作 **Vight Note (开源URL: [https://github.com/SpaceTimee/Vight-Note](https://github.com/SpaceTimee/Vight-Note)) (Winform)**
+
 * 制作 **Sheas Dop (开源URL: [https://github.com/SpaceTimee/Sheas-Dop](https://github.com/SpaceTimee/Sheas-Dop)) (WPF)**
 
-* 制作 **Vight Note (开源URL: [https://github.com/SpaceTimee/Vight-Note](https://github.com/SpaceTimee/Vight-Note)) (Winform)**
+* 制作 **Sheas Nginx (开源URL: [https://github.com/SpaceTimee/Sheas-Nginx](https://github.com/SpaceTimee/Sheas-Nginx)) (WPF)**
 
 * 制作 **Bot CealingCat (开源URL: [https://github.com/SpaceTimee/Bot-CealingCat](https://github.com/SpaceTimee/Bot-CealingCat)) (WPF)**
 
@@ -41,7 +43,9 @@
 
 * 制作 **Sheas Unlocker (开源URL: [https://github.com/SpaceTimee/Sheas-Unlocker](https://github.com/SpaceTimee/Sheas-Unlocker)) (Winform)**
 
-* 制作 **Frok NextChat (开源URL: [https://github.com/SpaceTimee/Frok-NextChat](https://github.com/SpaceTimee/Frok-NextChat)) (Next)**
+* 维护 **Frok PixivNginx (开源URL: [https://github.com/SpaceTimee/Frok-PixivNginx](https://github.com/SpaceTimee/Frok-PixivNginx)) (Nginx)**
+
+* 维护 **Frok NextChat (开源URL: [https://github.com/SpaceTimee/Frok-NextChat](https://github.com/SpaceTimee/Frok-NextChat)) (Next)**
 
 * 维护 **Cealing Host (开源URL: [https://github.com/SpaceTimee/Cealing-Host](https://github.com/SpaceTimee/Cealing-Host)) (Json)**
 
