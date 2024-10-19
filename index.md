@@ -21,6 +21,8 @@
 
 * 制作 **Vight Note (开源URL: [https://github.com/SpaceTimee/Vight-Note](https://github.com/SpaceTimee/Vight-Note)) (Winform)**
 
+* 制作 **Ona Prox (开源URL: [https://github.com/SpaceTimee/Ona-Prox](https://github.com/SpaceTimee/Ona-Prox)) (Cloudflare Workers)**
+
 * 制作 **Sheas Dop (开源URL: [https://github.com/SpaceTimee/Sheas-Dop](https://github.com/SpaceTimee/Sheas-Dop)) (WPF)**
 
 * 制作 **Sheas Nginx (开源URL: [https://github.com/SpaceTimee/Sheas-Nginx](https://github.com/SpaceTimee/Sheas-Nginx)) (WPF)**
@@ -43,8 +45,6 @@
 
 ## To-Do List 📒
 * 制作 Sheas Cealer Driod
-
-* 制作 Suri 系列
 
 * 继续学习 Unity
 
