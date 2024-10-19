@@ -43,8 +43,6 @@
 
 * 制作 **Vight Univerter (开源URL: [https://github.com/SpaceTimee/Vight-Univerter](https://github.com/SpaceTimee/Vight-Univerter)) (Xamarin)**
 
-* 制作 **Sheas Unlocker (开源URL: [https://github.com/SpaceTimee/Sheas-Unlocker](https://github.com/SpaceTimee/Sheas-Unlocker)) (Winform)**
-
 * 维护 **Frok PixivNginx (开源URL: [https://github.com/SpaceTimee/Frok-PixivNginx](https://github.com/SpaceTimee/Frok-PixivNginx)) (Nginx)**
 
 * 维护 **Frok NextChat (开源URL: [https://github.com/SpaceTimee/Frok-NextChat](https://github.com/SpaceTimee/Frok-NextChat)) (Next)**
@@ -57,6 +55,8 @@
 * 继续学习 Unity
 
 ## Did List 📕
+* Sheas Unlocker (开源URL: [https://github.com/SpaceTimee/Sheas-Unlocker](https://github.com/SpaceTimee/Sheas-Unlocker)) (Winform)
+
 * Frok ClashN (开源URL: [https://github.com/SpaceTimee/Frok-ClashN](https://github.com/SpaceTimee/Frok-ClashN)) (WPF)
 
 * Vizpower Plugin Installer (无限宝第三方插件安装器) (开源URL: [https://github.com/SpaceTimee/Vizpower-Plugin-Installer](https://github.com/SpaceTimee/Vizpower-Plugin-Installer)) (WPF)
