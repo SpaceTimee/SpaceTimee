@@ -1,5 +1,5 @@
 ## About Me 🤪
-**Space Time (?~?): 名 Space，姓 Time，啥都会一点，但又啥都不会；孩在上鞋，但又不一直都上；是独立开发者，但又不完全是；擅长 .Net 和 Vue，但又不是特别擅长**
+**Space Time (?~?): 名 Space，姓 Time，SpaceTime Studio 室长，Θίασος Νεκρομαντείας 教主，啥都会一点，但又啥都不会；孩在上鞋，但又不一直都上；是独立开发者，但又不完全是；擅长 .Net 和 Vue，但又不是特别擅长**
 
 ## Navigation 🧭
 * **SpaceTime Center: [https://www.spacetimee.xyz](https://www.spacetimee.xyz) (主页) (开源URL: [https://github.com/SpaceTimee/SpaceTimee](https://github.com/SpaceTimee/SpaceTimee))**
