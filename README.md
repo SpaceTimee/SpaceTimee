@@ -3,7 +3,7 @@
 </br>
 
 ## Github Stats 🌐
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SpaceTimee&include_all_commits=true&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&hide_border=true&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SpaceTimee&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&hide_border=true&hide_title=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceTimee&card_width=230&layout=compact&langs_count=10&hide_border=true&hide=Assembly,HTML&custom_title=Most%20Used%20Languages%20~" />
 
 ## About Me 🤪
