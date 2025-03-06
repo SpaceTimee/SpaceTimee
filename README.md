@@ -41,6 +41,8 @@
 
 * 制作 **Console HostGenerator (开源URL: [https://github.com/SpaceTimee/Console-HostGenerator](https://github.com/SpaceTimee/Console-HostGenerator)) (Pwsh)**
 
+* 制作 **Fusion JetBrainsMapleMono (开源URL: [https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)) (Github Workflows)**
+
 * 制作 **Vight Univerter (开源URL: [https://github.com/SpaceTimee/Vight-Univerter](https://github.com/SpaceTimee/Vight-Univerter)) (Xamarin)**
 
 * 维护 **Frok PixivNginx (开源URL: [https://github.com/SpaceTimee/Frok-PixivNginx](https://github.com/SpaceTimee/Frok-PixivNginx)) (Nginx)**
