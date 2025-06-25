@@ -1,52 +1,50 @@
 ## About Me 🤪
 
-**Space Time (?~?): 名 Space，姓 Time，SpaceTime Studio 室长，Θίασος Νεκρομαντείας 教主，啥都会一点，但又啥都不会；孩在上鞋，但又不一直都上；是独立开发者，但又不完全是；擅长 .Net 和 Vue，但又不是特别擅长**
+**Space Time (?~?): 名 Space，姓 Time，啥都会一点，但又啥都不会；孩在上鞋，但又不一直都上；是独立开发者，但又不完全是；擅长 .Net 和 Vue，但又不是特别擅长**
 
 ## Navigation 🧭
 
-* **SpaceTime Center: [https://www.spacetimee.xyz](https://www.spacetimee.xyz) (主页) (开源地址: [https://github.com/SpaceTimee/SpaceTimee](https://github.com/SpaceTimee/SpaceTimee))**
+* **[SpaceTime Center](https://github.com/SpaceTimee/SpaceTimee): 个人主页 → [https://www.spacetimee.xyz](https://www.spacetimee.xyz) (Github Pages)**
 
-* **SpaceTime Blog: [https://blog.spacetimee.xyz](https://blog.spacetimee.xyz) (博客) (开源地址: [https://github.com/SpaceTimee/SpaceTime-Blog](https://github.com/SpaceTimee/SpaceTime-Blog))**
+* **[SpaceTime Blog](https://github.com/SpaceTimee/SpaceTime-Blog): 个人博客 → [https://blog.spacetimee.xyz](https://blog.spacetimee.xyz) (Hexo)**
 
-* **SpaceTime Server: [https://server.spacetimee.xyz](https://server.spacetimee.xyz) (服务器) (开源地址: [https://github.com/SpaceTimee/SpaceTime-Server](https://github.com/SpaceTimee/SpaceTime-Server)) (ASP.NET Core + Vue)**
+* **[SpaceTime Server](https://github.com/SpaceTimee/SpaceTime-Server): 多功能服务器 → [https://server.spacetimee.xyz](https://server.spacetimee.xyz) (ASP.NET Core + Vue)**
 
-* SpaceTime Spare Blog: [https://www.cnblogs.com/spacetime](https://www.cnblogs.com/spacetime) (备用博客，已很久未维护)
-
-* SpaceTime DeputyBase: NULL (微信公众号，太久没用被冻结了...)
+* SpaceTime Alternative Blog: 备用博客 → [https://www.cnblogs.com/spacetime](https://www.cnblogs.com/spacetime) (Vanilla Web)
 
 ## Doing List 📗
 
-* 制作 **Sheas Cealer (开源地址: [https://github.com/SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer)) (WPF)**
+* **[Sheas Cealer](https://github.com/SpaceTimee/Sheas-Cealer): 桌面端 SNI 伪造工具 (WPF)**
 
-* 制作 **Sheas Cealer Droid (开源地址: [https://github.com/SpaceTimee/Sheas-Cealer-Droid](https://github.com/SpaceTimee/Sheas-Cealer-Droid)) (MAUI)**
+* **[Sheas Cealer Droid](https://github.com/SpaceTimee/Sheas-Cealer-Droid): 移动端 SNI 伪造工具 (MAUI)**
 
-* 制作 **Ona Pix (开源地址: [https://github.com/SpaceTimee/Ona-Pix](https://github.com/SpaceTimee/Ona-Pix)) (WPF)**
+* **[Ona Pix](https://github.com/SpaceTimee/Ona-Pix): Pixiv 直连搜图工具 (WPF)**
 
-* 制作 **Ona Dop (开源地址: [https://github.com/SpaceTimee/Ona-Dop](https://github.com/SpaceTimee/Ona-Dop)) (Vue)**
+* **[Ona Dop](https://github.com/SpaceTimee/Ona-Dop): 在线 DNS 解析工具 (Vue)**
 
-* 制作 **Vight Note (开源地址: [https://github.com/SpaceTimee/Vight-Note](https://github.com/SpaceTimee/Vight-Note)) (Winform)**
+* **[Vight Note](https://github.com/SpaceTimee/Vight-Note): 轻量级临时文本处理工具 (Winform)**
 
-* 制作 **Ona Prox (开源地址: [https://github.com/SpaceTimee/Ona-Prox](https://github.com/SpaceTimee/Ona-Prox)) (Cloudflare Workers)**
+* **[Ona Prox](https://github.com/SpaceTimee/Ona-Prox): 反?向代理 (Cloudflare Workers)**
 
-* 制作 **Sheas Dop (开源地址: [https://github.com/SpaceTimee/Sheas-Dop](https://github.com/SpaceTimee/Sheas-Dop)) (WPF)**
+* **[Sheas Dop](https://github.com/SpaceTimee/Sheas-Dop): DNS 抗污染解析工具 (WPF)**
 
-* 制作 **Sheas Nginx (开源地址: [https://github.com/SpaceTimee/Sheas-Nginx](https://github.com/SpaceTimee/Sheas-Nginx)) (WPF)**
+* **[Sheas Nginx](https://github.com/SpaceTimee/Sheas-Nginx): Pixiv Nginx 启动器 (WPF)**
 
-* 制作 **Bot CealingCat (开源地址: [https://github.com/SpaceTimee/Bot-CealingCat](https://github.com/SpaceTimee/Bot-CealingCat)) (WPF)**
+* **[Bot CealingCat](https://github.com/SpaceTimee/Bot-CealingCat): 提供 SNI 伪造相关服务的 Telegram Bot (WPF)**
 
-* 制作 **Console HostChecker (开源地址: [https://github.com/SpaceTimee/Console-HostChecker](https://github.com/SpaceTimee/Console-HostChecker)) (Pwsh)**
+* **[Console HostChecker](https://github.com/SpaceTimee/Console-HostChecker): Cealing Host 自动化检查工具 (Pwsh)**
 
-* 制作 **Console HostGenerator (开源地址: [https://github.com/SpaceTimee/Console-HostGenerator](https://github.com/SpaceTimee/Console-HostGenerator)) (Pwsh)**
+* **[Console HostGenerator](https://github.com/SpaceTimee/Console-HostGenerator): Cealing Host 自动化生成工具 (Pwsh)**
 
-* 制作 **Fusion JetBrainsMapleMono (开源地址: [https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)) (Github Workflows)**
+* **[Fusion JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono): JetBrains Mono + Maple Mono 合成字体 (Github Workflows)**
 
-* 制作 **Vight Univerter (开源地址: [https://github.com/SpaceTimee/Vight-Univerter](https://github.com/SpaceTimee/Vight-Univerter)) (Xamarin)**
+* **[Vight Univerter](https://github.com/SpaceTimee/Vight-Univerter): 轻量级单位转换器 (Xamarin)**
 
-* 维护 **Frok PixivNginx (开源地址: [https://github.com/SpaceTimee/Frok-PixivNginx](https://github.com/SpaceTimee/Frok-PixivNginx)) (Nginx)**
+* **[Frok PixivNginx](https://github.com/SpaceTimee/Frok-PixivNginx): Pixiv Nginx 分支 (Nginx)**
 
-* 维护 **Frok NextChat (开源地址: [https://github.com/SpaceTimee/Frok-NextChat](https://github.com/SpaceTimee/Frok-NextChat)) (Next)**
+* **[Frok NextChat](https://github.com/SpaceTimee/Frok-NextChat): NextChat 分支 (Next)**
 
-* 维护 **Cealing Host (开源地址: [https://github.com/SpaceTimee/Cealing-Host](https://github.com/SpaceTimee/Cealing-Host)) (Json)**
+* **[Cealing Host](https://github.com/SpaceTimee/Cealing-Host): 最新的内置伪造规则 (Json)**
 
 ## To-Do List 📒
 
@@ -54,13 +52,13 @@
 
 ## Did List 📕
 
-* Sheas Unlocker (开源地址: [https://github.com/SpaceTimee/Sheas-Unlocker](https://github.com/SpaceTimee/Sheas-Unlocker)) (Winform)
+* [Sheas Unlocker](https://github.com/SpaceTimee/Sheas-Unlocker): Windows 外来文件解锁定工具 (Winform)
 
-* Frok ClashN (开源地址: [https://github.com/SpaceTimee/Frok-ClashN](https://github.com/SpaceTimee/Frok-ClashN)) (WPF)
+* [Frok ClashN](https://github.com/SpaceTimee/Frok-ClashN): ClashN 分支 (WPF)
 
-* Vizpower Plugin Installer (无限宝第三方插件安装器) (开源地址: [https://github.com/SpaceTimee/Vizpower-Plugin-Installer](https://github.com/SpaceTimee/Vizpower-Plugin-Installer)) (WPF)
+* [Vizpower Plugin Installer](https://github.com/SpaceTimee/Vizpower-Plugin-Installer): 无限宝第三方插件安装器 (WPF)
 
-* Console Werewolf (单机狼人杀) (开源地址: [https://github.com/SpaceTimee/Console-Werewolf](https://github.com/SpaceTimee/Console-Werewolf)) (C++)
+* [Console Werewolf](https://github.com/SpaceTimee/Console-Werewolf): 单机狼人杀 (C++)
 
 * 一些用 Scratch 制作的小游戏 (弃坑多年，年久失修，大多已不能正常运行，故不在此展示)
 
