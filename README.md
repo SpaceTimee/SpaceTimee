@@ -13,7 +13,7 @@
 
 ## Navigation 🧭
 
-* **[SpaceTime Center](https://github.com/SpaceTimee/SpaceTimee): 个人主页 → [https://www.spacetimee.xyz](https://www.spacetimee.xyz) (React + Tailwind)**
+* **[SpaceTime Center](https://github.com/SpaceTimee/SpaceTime-Center): 个人主页 → [https://www.spacetimee.xyz](https://www.spacetimee.xyz) (React + Tailwind)**
 
 * **[SpaceTime Blog](https://github.com/SpaceTimee/SpaceTime-Blog): 个人博客 → [https://blog.spacetimee.xyz](https://blog.spacetimee.xyz) (Hexo)**
 
