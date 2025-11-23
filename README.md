@@ -9,11 +9,11 @@
 
 ## About Me 🤪
 
-**Space Time (?~?): 名 Space，姓 Time，啥都会一点，但又啥都不会；孩在上鞋，但又不一直都上；是独立开发者，但又不完全是；擅长 .Net 和 Vue，但又不是特别擅长**
+**Space Time (?~?): 全世界会 Python 的 Web 设计师中，最懂 C/C++ 的 .Net 独立开发者**
 
 ## Navigation 🧭
 
-* **[SpaceTime Center](https://github.com/SpaceTimee/SpaceTimee): 个人主页 → [https://www.spacetimee.xyz](https://www.spacetimee.xyz) (Github Pages)**
+* **[SpaceTime Center](https://github.com/SpaceTimee/SpaceTimee): 个人主页 → [https://www.spacetimee.xyz](https://www.spacetimee.xyz) (React + Tailwind)**
 
 * **[SpaceTime Blog](https://github.com/SpaceTimee/SpaceTime-Blog): 个人博客 → [https://blog.spacetimee.xyz](https://blog.spacetimee.xyz) (Hexo)**
 
@@ -60,6 +60,14 @@
 * 继续学习 Unity
 
 ## Did List 📕
+
+* [YouTube Video Summarizer](https://summarizer.spacetimee.xyz): 油管视频总结器 (Google Opal)
+
+* [Virtual Avatar Designer](https://designer.spacetimee.xyz): 虚拟形象设计器 (Google Opal)
+
+* [Parallel World Imagineer](https://imagineer.spacetimee.xyz): 平行世界生成器 (Google Opal)
+
+* [Veo Video Generator](https://veo.spacetimee.xyz): Veo3.1 体验 Demo (Google Opal)
 
 * [Sheas Unlocker](https://github.com/SpaceTimee/Sheas-Unlocker): Windows 外来文件解锁定工具 (Winform)
 
