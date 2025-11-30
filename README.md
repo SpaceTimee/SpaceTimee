@@ -61,6 +61,10 @@
 
 ## Did List 📕
 
+* **[Suri Qwen 3.1 4B Uncensored](https://huggingface.co/SpaceTimee/Suri-Qwen-3.1-4B-Uncensored): Qwen3 4B 无审查模型**
+
+* **[Suri Qwen 3.1 4B Uncensored Hard](https://huggingface.co/SpaceTimee/Suri-Qwen-3.1-4B-Uncensored-Hard): Qwen3 4B 无审查特化模型**
+
 * [YouTube Video Summarizer](https://summarizer.spacetimee.xyz): 油管视频总结器 (Google Opal)
 
 * [Virtual Avatar Designer](https://designer.spacetimee.xyz): 虚拟形象设计器 (Google Opal)
