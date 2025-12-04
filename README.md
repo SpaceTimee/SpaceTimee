@@ -61,9 +61,11 @@
 
 ## Did List 📕
 
-* **[Suri Qwen 3.1 4B Uncensored](https://huggingface.co/SpaceTimee/Suri-Qwen-3.1-4B-Uncensored): Qwen3 4B 无审查模型**
+* **[Suri Qwen 3 Playground](https://huggingface.co/spaces/SpaceTimee/Suri-Qwen-3-Playground): Suri Qwen 3 体验场 (Chainlit)**
 
-* **[Suri Qwen 3.1 4B Uncensored Hard](https://huggingface.co/SpaceTimee/Suri-Qwen-3.1-4B-Uncensored-Hard): Qwen3 4B 无审查特化模型**
+* **[Suri Qwen 3.1 4B Uncensored](https://huggingface.co/SpaceTimee/Suri-Qwen-3.1-4B-Uncensored): Qwen3 4B 无审查模型 (PyTorch)**
+
+* **[Suri Qwen 3.1 4B Uncensored Hard](https://huggingface.co/SpaceTimee/Suri-Qwen-3.1-4B-Uncensored-Hard): Qwen3 4B 无审查特化模型 (PyTorch)**
 
 * [YouTube Video Summarizer](https://summarizer.spacetimee.xyz): 油管视频总结器 (Google Opal)
 
