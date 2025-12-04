@@ -61,7 +61,7 @@
 
 ## Did List 📕
 
-* **[Suri Qwen 3 Playground](https://huggingface.co/spaces/SpaceTimee/Suri-Qwen-3-Playground): Suri Qwen 3 体验场 (Chainlit)**
+* **[Suri Qwen 3 Playground](https://huggingface.co/spaces/SpaceTimee/Suri-Qwen-3-Playground): Suri Qwen 3 体验场 (Chainlit + FastAPI)**
 
 * **[Suri Qwen 3.1 4B Uncensored](https://huggingface.co/SpaceTimee/Suri-Qwen-3.1-4B-Uncensored): Qwen3 4B 无审查模型 (PyTorch)**
 
