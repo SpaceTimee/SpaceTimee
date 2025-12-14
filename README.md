@@ -73,8 +73,6 @@
 
 * [Parallel World Imagineer](https://imagineer.spacetimee.xyz): 平行世界生成器 (Google Opal)
 
-* [Veo Video Generator](https://veo.spacetimee.xyz): Veo3.1 体验 Demo (Google Opal)
-
 * [Sheas Unlocker](https://github.com/SpaceTimee/Sheas-Unlocker): Windows 外来文件解锁定工具 (Winform)
 
 * [Frok ClashN](https://github.com/SpaceTimee/Frok-ClashN): ClashN 分支 (WPF)
