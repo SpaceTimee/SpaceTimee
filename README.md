@@ -39,9 +39,9 @@
 
 * **[Sheas Nginx](https://github.com/SpaceTimee/Sheas-Nginx): Pixiv Nginx 启动器 (WPF)**
 
-* **[Bot CealingCat](https://github.com/SpaceTimee/Bot-CealingCat): 提供 SNI 伪造相关服务的 Telegram Bot (WPF)**
+* **[Bot CealingCat](https://github.com/SpaceTimee/Bot-CealingCat): 提供 SNI 伪造相关服务的 Telegram Bot (ASP.Net Core + Vue)**
 
-* **[Console HostChecker](https://github.com/SpaceTimee/Console-HostChecker): Cealing Host 自动化检查工具 (Pwsh)**
+* **[Console HostChecker](https://github.com/SpaceTimee/Console-HostChecker): Cealing Host 自动化检查工具 (Pwsh + Github Workflows)**
 
 * **[Console HostGenerator](https://github.com/SpaceTimee/Console-HostGenerator): Cealing Host 自动化生成工具 (Pwsh)**
 
