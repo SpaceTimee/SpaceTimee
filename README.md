@@ -2,16 +2,16 @@
 <h3 align="center">Welcome To My Github ~</h3>
 </br>
 
-## Github Stats 🌐
+## Stats 🌐
 
 <img align="left" src="https://stats.spacetimee.xyz/api?username=SpaceTimee&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&hide_border=true&hide_title=true" />
 <img align="center" src="https://stats.spacetimee.xyz/api/top-langs/?username=SpaceTimee&card_width=230&layout=compact&langs_count=10&hide_border=true&hide=Assembly,HTML&custom_title=Most%20Used%20Languages%20~" />
 
-## About Me 🤪
+## About 🤪
 
 **Space Time (?~?): 全世界会 Python 的 Web 设计师中，最懂 C/C++ 的 .Net 独立开发者**
 
-## Navigation 🧭
+## Portals 🧭
 
 * **[SpaceTime Center](https://github.com/SpaceTimee/SpaceTime-Center): 个人主页 → [https://www.spacetimee.xyz](https://www.spacetimee.xyz) (React + Tailwind)**
 
@@ -21,7 +21,7 @@
 
 * SpaceTime Alternative Blog: 备用博客 → [https://www.cnblogs.com/spacetime](https://www.cnblogs.com/spacetime) (Vanilla Web)
 
-## Doing List 📗
+## Doing 📗
 
 * **[Sheas Cealer](https://github.com/SpaceTimee/Sheas-Cealer): 桌面端 SNI 伪造工具 (WPF)**
 
@@ -57,11 +57,11 @@
 
 * **[Cealing Host](https://github.com/SpaceTimee/Cealing-Host): 最新的内置伪造规则 (Json)**
 
-## To-Do List 📒
+## To-Do 📒
 
 * 继续学习 Unity
 
-## Did List 📕
+## Did 📕
 
 * **[Suri Qwen 3 Playground](https://huggingface.co/spaces/SpaceTimee/Suri-Qwen-3-Playground): Suri Qwen 3 体验场 (Chainlit + FastAPI)**
 
@@ -85,7 +85,7 @@
 
 * 一些用 Scratch 制作的小游戏 (弃坑多年，年久失修，大多已不能正常运行，故不在此展示)
 
-## Contact Me 📢
+## Contact 📢
 
 * **主邮箱: Zeus6_6@163.com (首选)**
 
