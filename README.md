@@ -9,7 +9,7 @@
 
 ## About 🤪
 
-**Space Time (?~?): 名 Space，姓 Time，社团势 VCoder，个人势 VChatter，独立死灵法师，所有项目都是设定，不要带入现实哦**
+**Space Time (?~?): 名 Space，姓 Time，个人势 VCoder，独立死灵法师，项目皆为设定，请勿带入现实哦**
 
 > `.Net 全端` `Web 全栈` `营养全面`
 
