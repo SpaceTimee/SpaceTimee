@@ -9,7 +9,9 @@
 
 ## About 🤪
 
-**Space Time (?~?): 全世界会 Python 的 Web 设计师中，最懂 C/C++ 的 .Net 独立开发者**
+**Space Time (?~?): 名 Space，姓 Time，社团势 VCoder，个人势 VChatter，独立死灵法师，所有项目都是设定，不要带入现实哦**
+
+> `.Net 全端` `Web 全栈` `营养全面`
 
 ## Portals 🧭
 
@@ -61,9 +63,9 @@
 
 * 继续学习 Unity
 
-## Did 📕
+## Done 📕
 
-* **[Srui Simu 1.0 LoRA](https://huggingface.co/SpaceTimee/Suri-Simu-1.0-LoRA): 像素猫猫 LoRA 模型 (Civitai)**
+* **[Suri Simu 1.0 LoRA](https://huggingface.co/SpaceTimee/Suri-Simu-1.0-LoRA): 像素猫猫 LoRA 模型 (Civitai)**
 
 * **[Suri Qwen 3 Playground](https://huggingface.co/spaces/SpaceTimee/Suri-Qwen-3-Playground): Suri Qwen 3 体验场 (Chainlit + FastAPI)**
 
