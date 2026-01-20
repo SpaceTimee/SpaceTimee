@@ -63,6 +63,8 @@
 
 ## Did 📕
 
+* **[Srui Simu 1.0 LoRA](https://huggingface.co/SpaceTimee/Suri-Simu-1.0-LoRA): 像素猫猫 LoRA 模型 (Civitai)**
+
 * **[Suri Qwen 3 Playground](https://huggingface.co/spaces/SpaceTimee/Suri-Qwen-3-Playground): Suri Qwen 3 体验场 (Chainlit + FastAPI)**
 
 * **[Suri Qwen 3.1 4B Uncensored](https://huggingface.co/SpaceTimee/Suri-Qwen-3.1-4B-Uncensored): Qwen3 4B 无审查模型 (PyTorch)**
