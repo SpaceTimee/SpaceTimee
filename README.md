@@ -31,6 +31,12 @@
 
 * **[Ona Pix](https://github.com/SpaceTimee/Ona-Pix): Pixiv 直连搜图工具 (WPF)**
 
+* **[Suri Simu 1 LoRA](https://huggingface.co/collections/SpaceTimee/suri-simu-1): 像素猫猫 LoRA 模型 (Civitai)**
+
+* **[Suri Qwen 3 Uncensored](https://huggingface.co/collections/SpaceTimee/suri-qwen-3): Qwen 3.x 无审查模型 (PyTorch)**
+
+* **[Suri Qwen 3 Playground](https://huggingface.co/collections/SpaceTimee/suri-qwen-3): Suri Qwen 3 体验场 (Chainlit + FastAPI)**
+
 * **[Sheas Frameg](https://github.com/SpaceTimee/Sheas-Frameg): 在线视频插帧工具 (Next + Tailwind)**
 
 * **[Ona Dop](https://github.com/SpaceTimee/Ona-Dop): 在线 DNS 解析工具 (Vue)**
@@ -64,14 +70,6 @@
 * 继续学习 Unity
 
 ## Done 📕
-
-* **[Suri Simu 1.0 LoRA](https://huggingface.co/SpaceTimee/Suri-Simu-1.0-LoRA): 像素猫猫 LoRA 模型 (Civitai)**
-
-* **[Suri Qwen 3 Playground](https://huggingface.co/spaces/SpaceTimee/Suri-Qwen-3-Playground): Suri Qwen 3 体验场 (Chainlit + FastAPI)**
-
-* **[Suri Qwen 3.1 4B Uncensored](https://huggingface.co/SpaceTimee/Suri-Qwen-3.1-4B-Uncensored): Qwen3 4B 无审查模型 (PyTorch)**
-
-* **[Suri Qwen 3.1 4B Uncensored Hard](https://huggingface.co/SpaceTimee/Suri-Qwen-3.1-4B-Uncensored-Hard): Qwen3 4B 无审查特化模型 (PyTorch)**
 
 * [YouTube Video Summarizer](https://summarizer.spacetimee.xyz): 油管视频总结器 (Google Opal)
 
