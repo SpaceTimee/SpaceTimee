@@ -67,6 +67,8 @@
 
 ## To-Do 📒
 
+* Vight Rand: MDRI 数字随机性量化工具 (Spline + Vanilla Web)
+
 * 继续学习 Unity
 
 ## Done 📕
