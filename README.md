@@ -21,6 +21,10 @@
 
 * **[SpaceTime Server](https://github.com/SpaceTimee/SpaceTime-Server): 多功能服务器 → [https://server.spacetimee.xyz](https://server.spacetimee.xyz) (ASP.NET Core + Vue)**
 
+* **[SpaceTime Docs](https://github.com/SpaceTimee/SpaceTime-Docs): 文档中心 → [https://docs.spacetimee.xyz](https://docs.spacetimee.xyz) (VitePress)**
+
+* SpaceTime Account: 账号中心 → [https://account.spacetimee.xyz](https://account.spacetimee.xyz) (Casdoor)
+
 * SpaceTime Alternative Blog: 备用博客 → [https://www.cnblogs.com/spacetime](https://www.cnblogs.com/spacetime) (Vanilla Web)
 
 ## Doing 📗
@@ -66,6 +70,8 @@
 * **[Cealing Host](https://github.com/SpaceTimee/Cealing-Host): 最新的内置伪造规则 (Json)**
 
 ## To-Do 📒
+
+* Vight Rand: MDRI 数字随机性量化工具 (Spline + Vanilla Web)
 
 * 继续学习 Unity
 
