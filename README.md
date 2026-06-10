@@ -25,7 +25,7 @@
 
 * SpaceTime Account: 账号中心 → [https://account.spacetimee.xyz](https://account.spacetimee.xyz) (Casdoor)
 
-* SpaceTime Alternative Blog: 备用博客 → [https://www.cnblogs.com/spacetime](https://www.cnblogs.com/spacetime) (Vanilla Web)
+* SpaceTime Status: 服务检测 → [https://status.spacetimee.xyz](https://status.spacetimee.xyz) (BetterStack)
 
 ## Doing 📗
 
@@ -40,6 +40,8 @@
 * **[Suri Qwen 3 Uncensored](https://huggingface.co/collections/SpaceTimee/suri-qwen-3): Qwen 3.x 无审查模型 (PyTorch)**
 
 * **[Suri Qwen 3 Playground](https://huggingface.co/collections/SpaceTimee/suri-qwen-3): Suri Qwen 3 体验场 (Chainlit + FastAPI)**
+
+* **[Suri Qwen 3 Autochat](https://huggingface.co/collections/SpaceTimee/suri-qwen-3): Suri Qwen 3 自聊群 (Chainlit + FastAPI)**
 
 * **[Sheas Frameg](https://github.com/SpaceTimee/Sheas-Frameg): 在线视频插帧工具 (Next + Tailwind)**
 
@@ -82,6 +84,8 @@
 * [Virtual Avatar Designer](https://designer.spacetimee.xyz): 虚拟形象设计器 (Google Opal)
 
 * [Parallel World Imagineer](https://imagineer.spacetimee.xyz): 平行世界生成器 (Google Opal)
+
+* [SpaceTime Alternative Blog](https://www.cnblogs.com/spacetime): 备用博客 (Vanilla Web)
 
 * [Sheas Unlocker](https://github.com/SpaceTimee/Sheas-Unlocker): Windows 外来文件解锁定工具 (Winform)
 
