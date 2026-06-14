@@ -23,7 +23,7 @@
 
 * **[SpaceTime Docs](https://github.com/SpaceTimee/SpaceTime-Docs): 文档中心 → [https://docs.spacetimee.xyz](https://docs.spacetimee.xyz) (VitePress)**
 
-* SpaceTime Account: 账号中心 → [https://account.spacetimee.xyz](https://account.spacetimee.xyz) (Casdoor)
+* SpaceTime Account: 账号中心 → [https://accounts.spacetimee.xyz](https://accounts.spacetimee.xyz) (Clerk)
 
 * SpaceTime Status: 服务检测 → [https://status.spacetimee.xyz](https://status.spacetimee.xyz) (BetterStack)
 
