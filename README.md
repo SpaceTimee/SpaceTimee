@@ -99,6 +99,10 @@
 
 * 一些用 Scratch 制作的小游戏 (弃坑多年，年久失修，大多已不能正常运行，故不在此展示)
 
+## Sponsor ❤️‍🔥
+
+**爱发电: [https://afdian.com/a/SpaceTimee](https://afdian.com/a/SpaceTimee)**
+
 ## Contact 📢
 
 * **主邮箱: Zeus6_6@163.com (首选)**
