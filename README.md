@@ -59,9 +59,11 @@
 
 * **[Bot CealingCat](https://github.com/SpaceTimee/Bot-CealingCat): 提供 SNI 伪造相关服务的 Telegram Bot (ASP.Net Core + Vue)**
 
-* **[Console HostChecker](https://github.com/SpaceTimee/Console-HostChecker): Cealing Host 自动化检查工具 (Pwsh + Github Workflows)**
+* **[Console CensorChecker](https://github.com/SpaceTimee/Console-CensorGenerator): Tcping 批量拨测与审查检测脚本 (Pwsh + Github Actions)**
 
-* **[Console HostGenerator](https://github.com/SpaceTimee/Console-HostGenerator): Cealing Host 自动化生成工具 (Pwsh)**
+* **[Console HostChecker](https://github.com/SpaceTimee/Console-HostChecker): Cealing Host 自动化检查脚本 (Pwsh + Github Workflows)**
+
+* **[Console HostGenerator](https://github.com/SpaceTimee/Console-HostGenerator): Cealing Host 自动化生成脚本 (Pwsh)**
 
 * **[Fusion JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono): JetBrains Mono + Maple Mono 合成字体 (Github Workflows)**
 
