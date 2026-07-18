@@ -59,7 +59,7 @@
 
 * **[Bot CealingCat](https://github.com/SpaceTimee/Bot-CealingCat): 提供 SNI 伪造相关服务的 Telegram Bot (ASP.Net Core + Vue)**
 
-* **[Console CensorChecker](https://github.com/SpaceTimee/Console-CensorGenerator): Tcping 批量拨测与审查检测脚本 (Pwsh + Github Actions)**
+* **[Console CensorChecker](https://github.com/SpaceTimee/Console-CensorChecker): Tcping 批量拨测与审查检测脚本 (Pwsh + Github Actions + Github Workflows)**
 
 * **[Console HostChecker](https://github.com/SpaceTimee/Console-HostChecker): Cealing Host 自动化检查脚本 (Pwsh + Github Workflows)**
 
